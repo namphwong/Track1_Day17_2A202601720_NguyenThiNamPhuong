@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large recordings should be stored outside Git
+*.mp4
+*.mov
+*.avi
+*.mkv
